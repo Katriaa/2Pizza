@@ -996,7 +996,6 @@ input[type="checkbox"]::before
           
           font-size: 10px;
           left: 152px;
-          border-right: 2px black solid;
       }
       .UI{
         font-size: 28px;
