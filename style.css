@@ -982,6 +982,7 @@ input[type="checkbox"]::before
   @media (max-width: 420px) {
       .body {
         width: max-content;
+        margin: 0 0 0 0;
       }
      
       .education {
