@@ -976,9 +976,7 @@ input[type="checkbox"]::before
   .slider.round:before {
     border-radius: 50%;
   }
-  .body {
-
-  }
+  
   @media (max-width: 420px) {
       .body {
         width: max-content;
@@ -986,6 +984,12 @@ input[type="checkbox"]::before
         left: -160px;
       }
      
+      .title{
+        width: 135px;
+        font-weight: bold;
+        font-size: 14px;
+        }
+
       .education {
           
           left: 0px;
