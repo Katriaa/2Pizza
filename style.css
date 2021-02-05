@@ -312,7 +312,7 @@ margin: 0px 11px;
 .title{
 width: 123px;
 font-weight: bold;
-font-size: 12px;
+font-size: 14px;
 }
 .groupe10{
 height: 16.97px;
@@ -987,7 +987,7 @@ input[type="checkbox"]::before
       .title{
         width: 135px;
         font-weight: bold;
-        font-size: 14px;
+        font-size: 12px;
         }
 
       .education {
@@ -1055,4 +1055,5 @@ input[type="checkbox"]::before
       .txtt17{
         width: 340px;
       }
+      
   }
