@@ -983,7 +983,31 @@ input[type="checkbox"]::before
         margin: 0 0 0 0;
         left: -160px;
       }
+
+      .txtt2 {
+        width: 101px;
+        font-weight: bold;
+        font-size: 12px;
+        margin: 8px 15px;
+    }
+
+    .txtt7 {
+        font-weight: bold;
+        font-size: 12px;
+        margin: -4px 0px;
+    }
+
+    .txtt13 {
+        width: 118px;
+        font-weight: bold;
+        font-size: 12px;
+    }
      
+    .txtt18 {
+        width: 180px;
+        font-weight: bold;
+        font-size: 12px;
+    }
       .title{
         width: 135px;
         font-weight: bold;
