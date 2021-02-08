@@ -983,7 +983,7 @@ input[type="checkbox"]::before
         margin: 0 0 0 0;
         left: -160px;
       }
-
+    
       .txtt2 {
         width: 101px;
         font-weight: bold;
@@ -1015,7 +1015,7 @@ input[type="checkbox"]::before
         }
 
       .education {
-          
+        
           left: 0px;
           top: -40px;
           left: 420px;
@@ -1028,7 +1028,7 @@ input[type="checkbox"]::before
         position: absolute;
         width: 445px;
         height: 1005px;
-        left: 152px;
+        left: 5px;
         top: 603px;
           font-size: 10px;
           
@@ -1045,10 +1045,11 @@ input[type="checkbox"]::before
       }
       .workk{
         top: 538px;
-        left: 173px;
+        left: 25px;
       }
       .description{
         width: 470px;
+        left: 10px;
       }
       .skills{
         left: 188px;
