@@ -1,4 +1,4 @@
-.main{
+body{
     margin: 0   auto;
     position: relative;
     width: 1000px;
@@ -300,7 +300,7 @@ flex-direction: row;
 align-items: center;
 padding: 0px;
 position: static;
-width: 180.97px;
+width: 165.97px;
 height: 17px;
 left: 0px;
 top: 25px;
@@ -312,7 +312,7 @@ margin: 0px 11px;
 .title{
 width: 123px;
 font-weight: bold;
-font-size: 14px;
+font-size: 12px;
 }
 .groupe10{
 height: 16.97px;
@@ -422,7 +422,7 @@ margin: 0px 8px;
 .txtt2{
 width: 101px;
 font-weight: bold;
-font-size: 14px;
+font-size: 12px;
 margin: 8px 15px;
 }
 .groupe0010{
@@ -501,7 +501,7 @@ margin: 0px 8px;
 }
 .txtt7{
 font-weight: bold;
-font-size: 14px;
+font-size: 12px;
 margin: -4px 0px;
 }
 .groupe101{
@@ -583,7 +583,7 @@ margin: 0px 8px;
 .txtt13{
 width: 118px;
 font-weight: bold;
-font-size: 14px;
+font-size: 12px;
 }
 .groupe100{
 height: 16.97px;
@@ -608,7 +608,7 @@ height: 24px;
 .txtt14{
 height: 10px;
 font-weight: bold;
-font-size: 14px;
+font-size: 12px;
 margin: 8px 8px;
 }
 .frame409{
@@ -639,7 +639,7 @@ height: 17px;
 margin: 0px 8px;
 }
 .txtt18{
-width: 180px;
+width: 172px;
 font-weight: bold;
 font-size: 14px;
 }
@@ -677,6 +677,9 @@ margin: 2px 8px;
 }
 .education{
     position: absolute;
+width: 190px;
+height: 1043.12px;
+position: absolute;
 width: 190px;
 height: 1043.12px;
 left: 660px;
@@ -976,46 +979,18 @@ input[type="checkbox"]::before
   .slider.round:before {
     border-radius: 50%;
   }
-  
+  .body {
+
+  }
   @media (max-width: 420px) {
       .body {
         width: max-content;
         margin: 0 0 0 0;
-        left: -160px;
+        left: -5000;
       }
-    
-      .txtt2 {
-        width: 101px;
-        font-weight: bold;
-        font-size: 12px;
-        margin: 8px 15px;
-    }
-
-    .txtt7 {
-        font-weight: bold;
-        font-size: 12px;
-        margin: -4px 0px;
-    }
-
-    .txtt13 {
-        width: 118px;
-        font-weight: bold;
-        font-size: 12px;
-    }
      
-    .txtt18 {
-        width: 180px;
-        font-weight: bold;
-        font-size: 12px;
-    }
-      .title{
-        width: 135px;
-        font-weight: bold;
-        font-size: 12px;
-        }
-
       .education {
-        
+          
           left: 0px;
           top: -40px;
           left: 420px;
@@ -1028,7 +1003,7 @@ input[type="checkbox"]::before
         position: absolute;
         width: 445px;
         height: 1005px;
-        left: 5px;
+        left: 152px;
         top: 603px;
           font-size: 10px;
           
@@ -1045,11 +1020,10 @@ input[type="checkbox"]::before
       }
       .workk{
         top: 538px;
-        left: 25px;
+        left: 173px;
       }
       .description{
         width: 470px;
-        left: 10px;
       }
       .skills{
         left: 188px;
@@ -1080,5 +1054,4 @@ input[type="checkbox"]::before
       .txtt17{
         width: 340px;
       }
-      
-  }
+    }
